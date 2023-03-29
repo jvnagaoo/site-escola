@@ -15,4 +15,14 @@ padding: 0%;
     width: 25%;
 }
 
-.cabeçalho-lista-item{display: inline-block;}
+.cabeçalho-lista-item{
+    display: inline-block;
+
+}
+.escola-imagem{
+    width: 20%;
+}
+.escola{
+    display: flex;
+    background-image: linear-gradient(rgb(24, 212, 212),#3b39af);
+}
