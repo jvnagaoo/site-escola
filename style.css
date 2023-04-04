@@ -20,9 +20,12 @@ padding: 0%;
 
 }
 .escola-imagem{
-    width: 20%;
+    width:20%;
 }
 .escola{
     display: flex;
+    color: white;
     background-image: linear-gradient(rgb(24, 212, 212),#3b39af);
+    justify-content: center;
+    align-items: center;
 }
