@@ -1,5 +1,6 @@
 *{margin: 0%;
 padding: 0%;
+font-family: 'Poppins', sans-serif;
 }
 
 
@@ -29,3 +30,12 @@ padding: 0%;
     justify-content: center;
     align-items: center;
 }
+ .escola-div--conteudo{
+     width: 35%;
+ }
+ .escola-titulo{
+     padding: 24px 0;}
+   
+     .estudante-imagem{
+        width: 25%;
+    }
