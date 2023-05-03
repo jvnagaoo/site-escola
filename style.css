@@ -21,7 +21,7 @@ cabeçalho-lista-item{
 
 }
 .escola-imagem{
-    width:20%;
+    width:15%;
 }
 .escola{
     display: flex;
@@ -31,15 +31,15 @@ cabeçalho-lista-item{
     align-items: center;
 }
  .escola-div--conteudo{
-     width: 35%;
+     width: 25%;
  }
  .escola-titulo{
      padding: 24px 0;}
    
      .estudante-imagem{
-        width: 25%;
+        width: 15%;
     }
 
     .estudante-icone{
-        width: 05%;
+        width: 04%;
     }
